@@ -1,0 +1,197 @@
+Ctrl + Shift + Esc = Gerenciador de Tarefas
+Alt + F4 = Fechar Janelas e Softwares
+
+==================== Novos atalhos para Windows 11 ====================
+
+Windows + A = Abrir Central de Ação
+Windows + N	= Abrir Painel de Notificações
+Windows + W	= Abrir painel de Widgets
+Windows + Z = Acesso rápido ao "Snap Layout"
+Windows + C	= Abrir o Microsoft Teams
+
+==================== Atalhos essenciais e de edição de texto ====================
+
+Ctrl + X = Recortar o item selecionado
+Ctrl + C (ou Ctrl + Insert) = Copiar o item selecionado
+Ctrl + V (ou Shift + Insert) = Colar o item selecionado
+Ctrl + Z = Desfazer uma ação
+Alt + Tab = Alternar entre aplicativos abertos
+Alt + F4 = Fechar o item ativo ou sair do aplicativo ativo
+Windows + L = Bloquear seu computador
+Windows + D = Mostrar e ocultar a área de trabalho
+F2 = Renomear o item selecionado
+F3 = Procurar um arquivo ou uma pasta no Explorador de Arquivos
+F4 = Mostrar a lista da barra de endereços no Explorador de Arquivos
+F5 = Atualizar a janela ativa
+F6 = Percorrer os elementos da tela de uma janela ou da área de trabalho
+F10 = Ativar a Barra de Menus no aplicativo ativo
+Alt + F8 = Exibir sua senha na tela de credenciais
+Alt + Esc = Percorrer os itens na ordem em que foram abertos
+Alt + letra sublinhada = Executar o comando referente a essa letra
+Alt + Enter = Mostrar as propriedades do item selecionado
+Alt + Barra de espaços = Abrir o menu de atalho da janela ativa
+Alt + Seta para a esquerda = Voltar
+Alt + Seta para a direita = Avançar
+Alt + Page Up = Mover uma tela para cima
+Alt + Page Down = Mover uma tela para baixo
+Ctrl + F4 = Fechar o documento ativo (em aplicativos que sejam de tela inteira e permitam vários documentos abertos ao mesmo tempo)
+Ctrl + A = Selecionar todos os itens em um documento ou em uma janela
+Ctrl + D (ou Delete) = Apagar o item selecionado e movê-lo para a Lixeira
+Ctrl + E = Abrir a Pesquisa (na maioria dos aplicativos)
+Ctrl + R (ou F5) = Atualizar a janela ativa
+Ctrl + Y = Refazer uma ação
+Ctrl + Seta para a direita = Mover o cursor para o início da próxima palavra
+Ctrl + Seta para a esquerda = Mover o cursor para o início da palavra anterior
+Ctrl + Seta para baixo = Mover o cursor para o início do próximo parágrafo
+Ctrl + Seta para cima = Mover o cursor para o início do parágrafo anterior
+Ctrl + Alt + Tab = Usar as teclas de direção para alternar entre todos os aplicativos abertos
+Alt + Shift + teclas de direção = Quando um grupo ou bloco estiver em foco no menu Iniciar, movê-lo na direção especificada.
+Ctrl + Shift + teclas de direção = Quando um bloco estiver em foco no menu Iniciar, movê-lo para outro bloco para criar uma pasta
+Ctrl + teclas de direção = Redimensionar o menu Iniciar quando ele estiver aberto
+Ctrl + tecla de direção (para ir até um item) + Barra de espaços = Selecionar vários itens separadamente em uma janela ou na área de trabalho
+Ctrl + Shift com uma tecla de direção = Selecionar um bloco de texto
+Ctrl + Esc = Abrir Iniciar
+Ctrl + Shift + Esc = Abrir o Gerenciador de Tarefas.
+Ctrl + Shift = Mudar o layout do teclado quando houver vários layouts de teclado disponíveis.
+Shift + F10 = Mostrar o menu de atalho do item selecionado
+Shift com qualquer tecla de direção = Selecionar mais de um item em uma janela ou na área de trabalho, ou selecionar texto em um documento
+Shift + Delete = Apagar o item selecionado sem movê-lo para a Lixeira primeiro
+Seta para a direita = Abrir o próximo menu à direita ou abrir um submenu
+Seta para a esquerda = Abrir o próximo menu à esquerda ou fechar um submenu.
+Esc = Parar ou encerrar a tarefa atual
+PrtScn = Fazer uma captura da tela inteira e copiá-la para a sua área de transferência.
+
+==================== Atalhos com a tecla Windows ====================
+
+Windows = Abrir ou fechar Iniciar
+Windows + A	= Abrir Configurações Rápidas
+Windows + B	= Definir o foco para o menu suspenso mostrar ícones ocultos
+Windows + C	= Abrir Microsoft Teams
+Windows + Shift + C = Abrir o menu de botões
+Windows + Ctrl + C = Ligar os filtros coloridos (ative este atalho primeiro nas configurações de filtros de cores)
+Windows + D	= Mostrar e ocultar a área de trabalho
+Windows + E	= Abrir o Explorador de Arquivos
+Windows + F	= Abrir o Hub de Feedback e tirar uma captura de tela
+Windows + G	= Abrir a Xbox Game Bar quando um jogo estiver aberto
+Windows + H	= Iniciar a digitação por voz
+Windows + I	= Abrir Configurações
+Windows + J	= Definir o foco para uma dica do Windows quando houver uma disponível
+Windows + L	= Bloquear seu computador ou mudar de conta
+Windows + M	= Minimizar todas as janelas
+Windows + Shift + M = Restaurar as janelas minimizadas na área de trabalho
+Windows + N	= Abrir centro de notificação e calendário
+Windows + O	= Bloquear a orientação do dispositivo
+Windows + P	= Escolher um modo de exibição da apresentação
+Windows + Ctrl + Q = Abrir a Assistência Rápida
+Windows + R	= Abrir a caixa de diálogo Executar
+Windows + Alt + R = Gravar vídeo da janela do jogo em foco (usando Xbox Game Bar)
+Windows + S	= Abrir a pesquisa
+Windows + Shift + S = Tirar uma captura de tela de parte de sua tela
+Windows + T	= Percorrer os aplicativos na barra de tarefas
+Windows + U	= Abrir as Configurações de Acessibilidade
+Windows + V	= Abrir o histórico da área de transferência
+Windows + Shift + V = Colocar uma notificação em foco
+Windows‌ + W = Abrir o Widgets
+Windows + X	= Abrir o menu Link Rápido
+Windows + Y	= Alternar a entrada entre o Windows Mixed Reality e a área de trabalho
+Windows + Z	= Abrir o ajuste de layouts.
+Windows + ponto (.) ou ponto e vírgula (;) = Abrir o painel de emojis
+Windows + vírgula (,) = Espiar temporariamente a área de trabalho
+Windows + Pause = Abrir a caixa de diálogo Propriedades do Sistema
+Windows + Ctrl + F = Procurar por computadores (se você estiver em uma rede)
+Windows + número = Abrir a área de trabalho e iniciar o aplicativo fixado na barra de tarefas, na posição indicada pelo número. Se o aplicativo já estiver em execução, mudar para esse aplicativo
+Windows + Shift + número = Abrir a área de trabalho e iniciar uma nova instância do aplicativo fixado na barra de tarefas, na posição indicada pelo número
+Windows + Ctrl + número	= Abrir a área de trabalho e mudar para a última janela ativa do aplicativo fixado na barra de tarefas, na posição indicada pelo número
+Windows + Alt + número = Abrir a área de trabalho e abrir a Lista de Atalhos do aplicativo fixado na barra de tarefas, na posição indicada pelo número
+Windows + Ctrl + Shift + número = Abrir a área de trabalho e abrir uma nova instância do aplicativo localizado na posição especificada, na barra de tarefas, como um administrador
+Windows + Tab = Abrir a Visão de tarefas
+Windows + Seta para cima = Maximizar a janela
+Windows + Alt + Seta para cima = Ajustar janela em foco na metade superior da tela (novo no Windows 11).
+Windows + Seta para baixo = Remover o aplicativo atual da tela ou minimizar a janela da área de trabalho
+Windows + Alt + Seta para baixo = Ajustar janela de encaixe em foco até a metade inferior da tela (novo no Windows 11)
+Windows + Seta para a esquerda = Maximizar a janela do aplicativo ou da área de trabalho, no lado esquerdo da tela.
+Windows + Seta para a direita = Maximizar a janela do aplicativo ou da área de trabalho, no lado direito da tela
+Windows + Home = Minimizar todas as janelas da área de trabalho, exceto a ativa (restaura todas as janelas com um segundo pressionamento)
+Windows + Shift + Seta para cima = Alongar a janela da área de trabalho até as partes superior e inferior da tela
+Windows + Shift + Seta para baixo = Restaurar/minimizar as janelas ativas da área de trabalho verticalmente, mantendo a largura
+Windows + Shift + Seta para a esquerda ou Seta para a direita = Mover um aplicativo ou uma janela na área de trabalho, de um monitor para outro
+Windows + Shift + Barra de espaços = Percorrer os elementos através do idioma e do layout do teclado
+Windows + Barra de espaços = Alternar o idioma de entrada e o layout do teclado
+Windows + Ctrl + Barra de espaços = Alterar para uma entrada selecionada anteriormente
+Windows + Ctrl + Enter = Ligar o Narrador
+Windows + Sinal de Adição (+) = Abrir lupa e ampliar
+Windows + Subtração (-)	= Ampliar o zoom na lupa
+Windows‌ + Esc = Fechar Lupa
+Windows + Ctrl + Shift + B = Ativar o PC a partir de uma tela em branco ou preta.
+Windows + PrtScn = Salvar captura de tela inteira para arquivar
+Windows + Alt + PrtScn = Salvar captura de tela da janela do jogo em foco para arquivar (usando Xbox Game Bar)
+
+==================== Atalhos do prompt de comando ====================
+
+Ctrl + C (ou Ctrl + Insert) = Copiar o texto selecionado
+Ctrl + V (ou Shift + Insert) = Colar o texto selecionado
+Ctrl + M = Entrar em modo de Marca
+Alt + tecla de seleção = Começar seleção no modo de bloqueio
+Teclas de direção = Mover o cursor na direção especificada
+Page Up = Mover o cursor uma página acima
+Page Down = Mover o cursor uma página abaixo
+Ctrl + Home (modo de marca) = Mover o cursor para o início do próximo buffer
+Ctrl + End (modo de marca) = Mover o cursor para o final do próximo buffer
+Ctrl + Seta para cima = Mover uma linha acima no histórico de saída
+Ctrl + Seta para baixo = Mover uma linha abaixo no histórico de saída
+Ctrl + Home (navegação no Histórico) = Se a linha de comando estiver vazia, mover o visor para o início do buffer. Do contrário, excluir todos os caracteres à esquerda do cursor na linha de comando.
+Ctrl + End (navegação no Histórico)	= Se a linha de comando estiver vazia, mover o visor para a linha de comando. Do contrário, excluir todos os caracteres à direita do cursor na linha de comando.
+
+==================== Atalhos da barra de tarefas ====================
+
+Shift + clique em um botão da barra de tarefas = Abrir um aplicativo ou abrir rapidamente outra instância de um aplicativo
+Ctrl + Shift + clique em um botão da barra de tarefas = Abrir um aplicativo como um administrador
+Shift + clique com o botão direito do mouse em um botão da barra de tarefas = Exibir o menu da janela do aplicativo
+Shift + clique com o botão direito do mouse em um botão da barra de tarefas agrupado = Exibir o menu da janela do grupo
+Ctrl + clique em um botão agrupado da barra de tarefas = Alternar as janelas do grupo
+
+==================== Atalhos da caixa de diálogo ====================
+
+F4 = Mostrar os itens na lista ativa
+Ctrl + Tab = Avançar entre as guias
+Ctrl + Shift + Tab = Voltar nas guias
+Ctrl + número (número de 1 a 9)	= Mover para a enésima guia
+Tab = Avançar entre as opções
+Shift + Tab	= Voltar nas opções
+Alt + letra sublinhada = Executar o comando (ou selecionar a opção) que é usada com essa letra
+Barra de espaços = Marcar ou desmarcar a caixa de seleção caso a opção ativa seja uma caixa de seleção.
+Backspace = Abrir uma pasta um nível acima caso uma pasta esteja selecionada na caixa de diálogo Salvar Como ou Abrir
+Teclas de direção = Selecionar um botão caso a opção ativa seja um grupo de botões de opção
+
+==================== Atalhos do explorador de arquivos ====================
+
+Alt + D = Selecionar a barra de endereços
+Ctrl + E = Selecionar a caixa de pesquisa
+Ctrl + F = Selecionar a caixa de pesquisa
+Ctrl + N = Abrir uma nova janela
+Ctrl + W = Fechar a janela ativa
+Ctrl + roda de rolagem do mouse = Alterar o tamanho e a aparência dos ícones de arquivo e pasta
+Ctrl + Shift + E = Mostrar todas as pastas acima da pasta selecionada
+Ctrl + Shift + N = Criar uma nova pasta
+Num Lock + asterisco (*) = Mostrar todas as subpastas da pasta selecionada
+Num Lock + tecla adição (+) = Mostrar o conteúdo da pasta selecionada
+Num Lock + tecla subtração (-) = Recolher a pasta selecionada
+Alt + P = Mostrar o painel de visualização
+Alt + Enter	= Abrir a caixa de diálogo Propriedades do item selecionado
+Alt + Seta para a direita = Mostrar a próxima pasta
+Alt + Seta para cima = Mostrar a pasta na qual a pasta estava
+Alt + Seta para a esquerda = Mostrar a pasta anterior
+Backspace = Mostrar a pasta anterior
+Seta para a direita = Mostrar a seleção atual (se estiver recolhida) ou selecionar a primeira subpasta
+Seta para a esquerda = Recolha a seleção atual (se estiver expandida) ou selecionar a pasta na qual a pasta atual estava
+End = Mostrar a parte inferior da janela ativa
+Home = Mostrar a parte superior da janela ativa
+F11 = Maximizar ou minimizar a janela ativa
+
+==================== Atalho de desktop virtual ====================
+
+Windows + Tab = Abrir a visão de tarefas
+Windows + Ctrl + D = Adicionar uma área de trabalho virtual
+Windows + Ctrl + Seta para a direita = Alternar entre áreas de trabalho virtuais criadas à direita
+Windows + Ctrl + Seta para a esquerda = Alternar entre áreas de trabalho virtuais criadas à esquerda
+Windows + Ctrl + F4 = Fechar a área de trabalho virtual que você está usando
